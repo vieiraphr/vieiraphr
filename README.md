@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34510618/README.md)
 # Pedro Vieira 🥷
 
 ### 🌐 Front-end Web Developer | Aspiring Full Stack Developer
